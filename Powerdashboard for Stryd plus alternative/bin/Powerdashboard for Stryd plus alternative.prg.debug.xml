@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="87" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="88" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="90" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="91" pc="268435562" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="92" pc="268435586" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="93" pc="268435610" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="94" pc="268435634" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="95" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="96" pc="268435682" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="97" pc="268435706" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="98" pc="268435730" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="103" pc="268435755" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="105" pc="268435759" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="106" pc="268435770" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="109" pc="268435793" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="110" pc="268435824" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="111" pc="268435837" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="112" pc="268435848" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="113" pc="268435885" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="114" pc="268435931" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="115" pc="268435956" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="116" pc="268435975" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="117" pc="268436012" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="118" pc="268436055" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="119" pc="268436072" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="120" pc="268436082" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="121" pc="268436099" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="122" pc="268436118" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="123" pc="268436135" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="125" pc="268436163" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="126" pc="268436179" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="131" pc="268436202" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="132" pc="268436206" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="134" pc="268436225" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="135" pc="268436250" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="136" pc="268436296" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="137" pc="268436342" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="140" pc="268436388" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="141" pc="268436407" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="142" pc="268436448" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="143" pc="268436464" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="144" pc="268436480" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="148" pc="268436497" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="149" pc="268436501" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="150" pc="268436513" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="155" pc="268436524" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="156" pc="268436528" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="157" pc="268436540" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="162" pc="268436551" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="163" pc="268436555" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="168" pc="268436566" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="169" pc="268436570" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="174" pc="268436581" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="175" pc="268436585" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="176" pc="268436604" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="181" pc="268436642" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="182" pc="268436646" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="183" pc="268436659" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="184" pc="268436672" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="185" pc="268436685" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="186" pc="268436698" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="187" pc="268436711" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="193" pc="268436725" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="194" pc="268436729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="195" pc="268436748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="200" pc="268436748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="201" pc="268436762" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="203" pc="268436778" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="205" pc="268436791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="206" pc="268436805" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="208" pc="268436821" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="210" pc="268436834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="211" pc="268436889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="212" pc="268436908" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="215" pc="268436963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="216" pc="268436970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="217" pc="268436983" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="221" pc="268437005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="222" pc="268437012" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="223" pc="268437025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="227" pc="268437047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="228" pc="268437054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="229" pc="268437067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="233" pc="268437089" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="234" pc="268437096" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="236" pc="268437103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="237" pc="268437116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="238" pc="268437126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="242" pc="268437148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="243" pc="268437155" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="244" pc="268437162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="245" pc="268437187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="247" pc="268437197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="248" pc="268437234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="252" pc="268437256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="253" pc="268437300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="254" pc="268437326" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="255" pc="268437370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="256" pc="268437414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="257" pc="268437457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="258" pc="268437501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="259" pc="268437555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="260" pc="268437587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="261" pc="268437619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="262" pc="268437673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="263" pc="268437705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="266" pc="268437737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="267" pc="268437744" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="268" pc="268437751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="269" pc="268437758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="270" pc="268437787" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="272" pc="268437800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="273" pc="268437811" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="275" pc="268437822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="276" pc="268437835" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="278" pc="268437854" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="280" pc="268437867" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="281" pc="268437883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="282" pc="268437899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="283" pc="268437915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="284" pc="268437931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="285" pc="268437965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="289" pc="268438023" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="290" pc="268438030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="291" pc="268438037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="292" pc="268438050" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="294" pc="268438063" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="295" pc="268438074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="297" pc="268438085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="298" pc="268438098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="300" pc="268438117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="302" pc="268438130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="303" pc="268438146" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="304" pc="268438162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="308" pc="268438202" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="309" pc="268438284" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="311" pc="268438316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="312" pc="268438333" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="313" pc="268438373" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="314" pc="268438390" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="315" pc="268438403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="316" pc="268438420" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="317" pc="268438433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="318" pc="268438450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="319" pc="268438466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="320" pc="268438483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="321" pc="268438499" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="322" pc="268438516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="325" pc="268438532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="326" pc="268438561" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="327" pc="268438590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="328" pc="268438619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="329" pc="268438648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="330" pc="268438677" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="331" pc="268438706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="332" pc="268438719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="333" pc="268438732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="334" pc="268438745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="335" pc="268438758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="336" pc="268438771" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="338" pc="268438784" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="339" pc="268438813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="340" pc="268438842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="341" pc="268438855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="344" pc="268438868" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="348" pc="268438968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="350" pc="268438999" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="351" pc="268439022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="352" pc="268439044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="353" pc="268439061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="354" pc="268439087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="360" pc="268439109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="361" pc="268439119" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="362" pc="268439135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="363" pc="268439151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="364" pc="268439167" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="366" pc="268439174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="367" pc="268439187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="368" pc="268439197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="369" pc="268439205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="370" pc="268439221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="371" pc="268439231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="372" pc="268439239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="373" pc="268439255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="374" pc="268439265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="375" pc="268439273" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="376" pc="268439289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="377" pc="268439299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="378" pc="268439307" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="379" pc="268439323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="380" pc="268439333" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="381" pc="268439341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="382" pc="268439357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="383" pc="268439367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="384" pc="268439375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="385" pc="268439391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="387" pc="268439401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="388" pc="268439417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="390" pc="268439424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="393" pc="268439431" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="394" pc="268439444" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="395" pc="268439448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="396" pc="268439456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="397" pc="268439475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="398" pc="268439483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="399" pc="268439502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="400" pc="268439510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="401" pc="268439529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="402" pc="268439537" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="403" pc="268439556" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="404" pc="268439564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="405" pc="268439583" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="406" pc="268439591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="408" pc="268439610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="410" pc="268439626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="415" pc="268439633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="416" pc="268439647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="417" pc="268439675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="423" pc="268439691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="425" pc="268439705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="426" pc="268439745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="427" pc="268439759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="428" pc="268439829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="429" pc="268439899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="431" pc="268439969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="432" pc="268440039" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="433" pc="268440109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="434" pc="268440179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="435" pc="268440246" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="436" pc="268440316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="442" pc="268440386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="443" pc="268440393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="444" pc="268440400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="445" pc="268440407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="447" pc="268440414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="448" pc="268440421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="449" pc="268440428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="450" pc="268440435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="452" pc="268440442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="453" pc="268440449" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="454" pc="268440456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="455" pc="268440463" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="457" pc="268440470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="458" pc="268440477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="459" pc="268440484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="460" pc="268440491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="463" pc="268440498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="464" pc="268440538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="465" pc="268440555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="466" pc="268440587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="469" pc="268440619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="470" pc="268440635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="475" pc="268440651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="476" pc="268440658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="477" pc="268440665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="478" pc="268440672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="480" pc="268440679" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="481" pc="268440686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="482" pc="268440693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="483" pc="268440700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="485" pc="268440707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="486" pc="268440714" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="487" pc="268440721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="488" pc="268440728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="490" pc="268440735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="491" pc="268440742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="492" pc="268440749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="493" pc="268440756" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="495" pc="268440763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="500" pc="268440770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="501" pc="268440786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="502" pc="268440814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="503" pc="268440834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="504" pc="268440862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="507" pc="268440882" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="508" pc="268440922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="509" pc="268440977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="512" pc="268441029" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="513" pc="268441078" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="515" pc="268441130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="516" pc="268441137" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="517" pc="268441144" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="519" pc="268441151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="520" pc="268441168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="521" pc="268441172" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="522" pc="268441179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="523" pc="268441189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="524" pc="268441206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="525" pc="268441210" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="526" pc="268441217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="527" pc="268441227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="528" pc="268441244" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="529" pc="268441248" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="530" pc="268441255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="531" pc="268441265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="532" pc="268441282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="533" pc="268441286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="534" pc="268441293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="535" pc="268441303" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="536" pc="268441320" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="537" pc="268441324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="538" pc="268441331" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="539" pc="268441341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="540" pc="268441358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="541" pc="268441362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="542" pc="268441369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="543" pc="268441379" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="544" pc="268441396" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="545" pc="268441400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="546" pc="268441407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="547" pc="268441417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="548" pc="268441434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="549" pc="268441438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="550" pc="268441445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="551" pc="268441455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="552" pc="268441472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="553" pc="268441476" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="554" pc="268441483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="558" pc="268441493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="559" pc="268441533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="561" pc="268441553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="562" pc="268441593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="563" pc="268441615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="564" pc="268441681" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="565" pc="268441703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="566" pc="268441769" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="567" pc="268441791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="569" pc="268441857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="572" pc="268441906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="573" pc="268441913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="574" pc="268441930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="575" pc="268441934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="576" pc="268441941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="577" pc="268441951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="578" pc="268441968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="579" pc="268441972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="580" pc="268441979" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="581" pc="268441989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="582" pc="268442006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="583" pc="268442010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="584" pc="268442017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="585" pc="268442027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="586" pc="268442044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="587" pc="268442048" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="588" pc="268442055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="589" pc="268442065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="590" pc="268442082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="591" pc="268442086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="592" pc="268442093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="593" pc="268442103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="594" pc="268442120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="595" pc="268442124" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="596" pc="268442131" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="597" pc="268442141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="598" pc="268442158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="599" pc="268442162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="600" pc="268442169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="601" pc="268442179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="602" pc="268442196" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="603" pc="268442200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="604" pc="268442207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="605" pc="268442217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="606" pc="268442234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="607" pc="268442238" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="608" pc="268442245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="612" pc="268442255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="613" pc="268442295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="615" pc="268442315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="616" pc="268442355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="617" pc="268442377" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="618" pc="268442443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="619" pc="268442465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="620" pc="268442531" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="621" pc="268442553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus alternative\\.\\source\\PowerdashboardforStryd-fenix3.mc" lineNum="623" pc="268442619" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="83" symbol="lShowDemo"/>
+<entry field="true" id="27" symbol="uBacklight"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry field="true" id="81" symbol="lAEFactor"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="64" symbol="MyNumberTitle"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="46" symbol="mLastLapTimerTime"/>
+<entry field="true" id="23" symbol="Pace3"/>
+<entry field="true" id="22" symbol="Pace2"/>
+<entry field="true" id="21" symbol="Pace1"/>
+<entry field="true" id="8389673" symbol="isTouchScreen"/>
+<entry field="true" id="55" symbol="mEH"/>
+<entry field="true" id="51" symbol="mPowerTime"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="35" symbol="mTimerRunning"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry field="true" id="62" symbol="MyNumberError"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="79" symbol="lLPower"/>
+<entry field="true" id="24" symbol="vibrateseconds"/>
+<entry field="true" id="11" symbol="mySettings"/>
+<entry field="true" id="52" symbol="mCurrentHeartrate"/>
+<entry field="true" id="76" symbol="lLEIndex"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry field="true" id="74" symbol="lBottomLeftMetric"/>
+<entry field="true" id="20" symbol="Power5"/>
+<entry field="true" id="19" symbol="Power4"/>
+<entry field="true" id="18" symbol="Power3"/>
+<entry field="true" id="17" symbol="Power2"/>
+<entry field="true" id="16" symbol="Power1"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="48" symbol="mElapsedPower"/>
+<entry field="true" id="28" symbol="uPowerAveraging"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="38" symbol="mLastLapPowerMarker"/>
+<entry field="true" id="15" symbol="uRequiredPower"/>
+<entry field="true" id="69" symbol="AppName"/>
+<entry field="true" id="34" symbol="mfillLLColour"/>
+<entry field="true" id="37" symbol="mLaps"/>
+<entry field="true" id="36" symbol="mStartStopPushed"/>
+<entry id="57" method="true" symbol="startStopPushed"/>
+<entry field="true" id="77" symbol="lPowerAveraging"/>
+<entry field="true" id="42" symbol="mLastLapStoppedPowerMarker"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="61" symbol="lPowerZones"/>
+<entry field="true" id="60" symbol="LauncherIcon"/>
+<entry field="true" id="47" symbol="mCurrentPower"/>
+<entry field="true" id="29" symbol="uBottomLeftMetric"/>
+<entry field="true" id="41" symbol="mLastLapStoppedTimeMarker"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="75" symbol="lBottomRightMetric"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="12" symbol="numberis24Hour"/>
+<entry field="true" id="85" symbol="lPowerzone"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="14" symbol="uPowerZones"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="44" symbol="mLastLapDistMarker"/>
+<entry field="true" id="73" symbol="lLLPower"/>
+<entry field="true" id="39" symbol="mLastLapHeartrateMarker"/>
+<entry id="10" object="true" symbol="DatarunView"/>
+<entry field="true" id="25" symbol="umyNumber"/>
+<entry field="true" id="43" symbol="mLastLapStoppedHeartrateMarker"/>
+<entry field="true" id="84" symbol="lBacklight"/>
+<entry field="true" id="30" symbol="uBottomRightMetric"/>
+<entry field="true" id="13" symbol="numberisTouchScreen"/>
+<entry field="true" id="71" symbol="AppVersion"/>
+<entry field="true" id="31" symbol="DisplayPower"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry field="true" id="45" symbol="mLastLapElapsedDistance"/>
+<entry field="true" id="50" symbol="mLastLapElapsedPower"/>
+<entry id="59" module="true" symbol="Layouts"/>
+<entry field="true" id="8389402" symbol="distanceUnits"/>
+<entry field="true" id="49" symbol="mElapsedHeartrate"/>
+<entry field="true" id="82" symbol="lLLEIndex"/>
+<entry field="true" id="53" symbol="mLastLapElapsedHeartrate"/>
+<entry field="true" id="33" symbol="mfillAColour"/>
+<entry field="true" id="80" symbol="lLEFactor"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="72" symbol="lAPower"/>
+<entry field="true" id="66" symbol="lAvgPwrNone"/>
+<entry field="true" id="68" symbol="lRequiredPower"/>
+<entry id="58" module="true" symbol="Menus"/>
+<entry field="true" id="54" symbol="mHeartrateTime"/>
+<entry field="true" id="40" symbol="mLastLapTimeMarker"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="65" symbol="lAEIndex"/>
+<entry field="true" id="70" symbol="lAvgPwr3"/>
+<entry id="9" object="true" symbol="PowerdashboardforStrydplusalternativeApp"/>
+<entry field="true" id="56" symbol="mLLHRM"/>
+<entry field="true" id="32" symbol="mCurrentPowerZone"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="26" symbol="uShowDemo"/>
+<entry field="true" id="78" symbol="lLLEFactor"/>
+<entry field="true" id="67" symbol="lAEI3"/>
+<entry field="true" id="63" symbol="lAEI0"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435754" name="mApp" stackId="1" startPc="268435525"/>
+<entry endPc="268436079" name="mElapsedHeartrate" stackId="5" startPc="268436072"/>
+<entry endPc="268436198" name="mLapElapsedHeartrate" stackId="6" startPc="268435848"/>
+<entry endPc="268436198" name="mLapElapsedPower" stackId="4" startPc="268435848"/>
+<entry endPc="268436201" name="mLapElapsedDistance" stackId="3" startPc="268435759"/>
+<entry endPc="268436201" name="mElapsedDistance" stackId="2" startPc="268435759"/>
+<entry endPc="268436202" name="info" stackId="1" startPc="268435755"/>
+<entry endPc="268436496" name="info" stackId="1" startPc="268436206"/>
+<entry endPc="268436641" name="info" stackId="1" startPc="268436585"/>
+<entry endPc="268442668" name="zero" stackId="81" startPc="268440386"/>
+<entry endPc="268442668" name="ytbr" stackId="80" startPc="268440386"/>
+<entry endPc="268442668" name="xfur" stackId="51" startPc="268440386"/>
+<entry endPc="268442668" name="ytbl" stackId="76" startPc="268440386"/>
+<entry endPc="268442668" name="xful" stackId="47" startPc="268440386"/>
+<entry endPc="268442668" name="fieldValue" stackId="82" startPc="268440386"/>
+<entry endPc="268442668" name="xfbr" stackId="59" startPc="268440386"/>
+<entry endPc="268442668" name="fieldLabel" stackId="83" startPc="268440386"/>
+<entry endPc="268442668" name="xfbl" stackId="55" startPc="268440386"/>
+<entry endPc="268442668" name="xtur" stackId="71" startPc="268440386"/>
+<entry endPc="268442668" name="yfur" stackId="52" startPc="268440386"/>
+<entry endPc="268442668" name="hfur" stackId="54" startPc="268440386"/>
+<entry endPc="268442668" name="xtul" stackId="67" startPc="268440386"/>
+<entry endPc="268442668" name="yful" stackId="48" startPc="268440386"/>
+<entry endPc="268442668" name="hful" stackId="50" startPc="268440386"/>
+<entry endPc="268442668" name="yur" stackId="70" startPc="268440386"/>
+<entry endPc="268442668" name="fieldformat" stackId="84" startPc="268440386"/>
+<entry endPc="268442668" name="xtbr" stackId="79" startPc="268440386"/>
+<entry endPc="268442668" name="wfur" stackId="53" startPc="268440386"/>
+<entry endPc="268442668" name="yul" stackId="66" startPc="268440386"/>
+<entry endPc="268442668" name="yfbr" stackId="60" startPc="268440386"/>
+<entry endPc="268442668" name="hfbr" stackId="62" startPc="268440386"/>
+<entry endPc="268442668" name="xtbl" stackId="75" startPc="268440386"/>
+<entry endPc="268442668" name="xur" stackId="69" startPc="268440386"/>
+<entry endPc="268442668" name="wful" stackId="49" startPc="268440386"/>
+<entry endPc="268442668" name="yfbl" stackId="56" startPc="268440386"/>
+<entry endPc="268442668" name="hfbl" stackId="58" startPc="268440386"/>
+<entry endPc="268442668" name="xul" stackId="65" startPc="268440386"/>
+<entry endPc="268442668" name="ybr" stackId="78" startPc="268440386"/>
+<entry endPc="268442668" name="Garminfont3" stackId="64" startPc="268440386"/>
+<entry endPc="268442668" name="Garminfont2" stackId="63" startPc="268440386"/>
+<entry endPc="268442668" name="ytur" stackId="72" startPc="268440386"/>
+<entry endPc="268442668" name="wfbr" stackId="61" startPc="268440386"/>
+<entry endPc="268442668" name="ybl" stackId="74" startPc="268440386"/>
+<entry endPc="268442668" name="ytul" stackId="68" startPc="268440386"/>
+<entry endPc="268442668" name="xbr" stackId="77" startPc="268440386"/>
+<entry endPc="268442668" name="wfbl" stackId="57" startPc="268440386"/>
+<entry endPc="268442668" name="xbl" stackId="73" startPc="268440386"/>
+<entry endPc="268442668" name="AveragePower3sec" stackId="26" startPc="268436729"/>
+<entry endPc="268442668" name="LastLapEfficiencyFactor" stackId="25" startPc="268436729"/>
+<entry endPc="268442668" name="mPowerWarningupper" stackId="40" startPc="268436729"/>
+<entry endPc="268442668" name="LapHeartrate" stackId="15" startPc="268436729"/>
+<entry endPc="268442668" name="deviceID2" stackId="5" startPc="268436729"/>
+<entry endPc="268442668" name="mTestPower" stackId="42" startPc="268436729"/>
+<entry endPc="268442668" name="deviceID1" stackId="4" startPc="268436729"/>
+<entry endPc="268442668" name="LastLapEfficiencyIndex" stackId="22" startPc="268436729"/>
+<entry endPc="268442668" name="mLapElapsedPower" stackId="7" startPc="268436729"/>
+<entry endPc="268442668" name="vibrateData" stackId="41" startPc="268436729"/>
+<entry endPc="268442668" name="mLapElapsedDistance" stackId="9" startPc="268436729"/>
+<entry endPc="268442668" name="LastLapPower" stackId="19" startPc="268436729"/>
+<entry endPc="268442668" name="mtest" stackId="6" startPc="268436729"/>
+<entry endPc="268442668" name="mfillurColour" stackId="44" startPc="268436729"/>
+<entry endPc="268442668" name="mfillulColour" stackId="43" startPc="268436729"/>
+<entry endPc="268442668" name="AveragePace3sec" stackId="29" startPc="268436729"/>
+<entry endPc="268442668" name="mZ1under" stackId="33" startPc="268436729"/>
+<entry endPc="268442668" name="currentPowertest" stackId="28" startPc="268436729"/>
+<entry endPc="268442668" name="mZ3under" stackId="35" startPc="268436729"/>
+<entry endPc="268442668" name="AEIndex3" stackId="32" startPc="268436729"/>
+<entry endPc="268442668" name="mZ5under" stackId="37" startPc="268436729"/>
+<entry endPc="268442668" name="mTimerTime" stackId="10" startPc="268436729"/>
+<entry endPc="268442668" name="mLapElapsedHeartrate" stackId="8" startPc="268436729"/>
+<entry endPc="268442668" name="AEIndex0" stackId="31" startPc="268436729"/>
+<entry endPc="268442668" name="mfillColour" stackId="45" startPc="268436729"/>
+<entry endPc="268442668" name="mLastLapSpeed" stackId="13" startPc="268436729"/>
+<entry endPc="268442668" name="mColour" stackId="3" startPc="268436729"/>
+<entry endPc="268442668" name="mCurrentPowerZone" stackId="46" startPc="268436729"/>
+<entry endPc="268442668" name="mPowerWarningunder" stackId="39" startPc="268436729"/>
+<entry endPc="268442668" name="LastLapHeartrate" stackId="16" startPc="268436729"/>
+<entry endPc="268442668" name="currentPacetest" stackId="30" startPc="268436729"/>
+<entry endPc="268442668" name="LapPower" stackId="18" startPc="268436729"/>
+<entry endPc="268442668" name="LapEfficiencyFactor" stackId="24" startPc="268436729"/>
+<entry endPc="268442668" name="LapEfficiencyIndex" stackId="21" startPc="268436729"/>
+<entry endPc="268442668" name="AveragePower" stackId="17" startPc="268436729"/>
+<entry endPc="268442668" name="AverageEfficiencyIndex" stackId="20" startPc="268436729"/>
+<entry endPc="268442668" name="AveragePower5sec" stackId="27" startPc="268436729"/>
+<entry endPc="268442668" name="mLapTimerTime" stackId="11" startPc="268436729"/>
+<entry endPc="268442668" name="info" stackId="2" startPc="268436729"/>
+<entry endPc="268442668" name="AverageEfficiencyFactor" stackId="23" startPc="268436729"/>
+<entry endPc="268442668" name="mZ5upper" stackId="38" startPc="268436729"/>
+<entry endPc="268442668" name="mZ2under" stackId="34" startPc="268436729"/>
+<entry endPc="268442668" name="AverageHeartrate" stackId="14" startPc="268436729"/>
+<entry endPc="268442668" name="mZ4under" stackId="36" startPc="268436729"/>
+<entry endPc="268442668" name="mLapSpeed" stackId="12" startPc="268436729"/>
+<entry endPc="268442669" name="dc" stackId="1" startPc="268436725"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PowerdashboardforStrydplusalternativeApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PowerdashboardforStrydplusalternativeApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DatarunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="DatarunView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Calculations we need to do every second even when the data field is not visible<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerLap" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Store last lap quantities and set lap markers<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStart" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from stopped to running state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStop" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from running to stopped state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerResume" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from paused to running state (i.e. resume from Auto Pause is triggered)<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerPause" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from running to paused state (i.e. Auto Pause is triggered)<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="startStopPushed" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Start/stop button was pushed - emulated via timer start/stop<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Current activity is ended<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DatarunView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Do necessary calculations and draw fields.<br/> This will be called once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="DatarunView" type="class"/>
+<dataEntry offset="693" parentId="globals" symbolId="PowerdashboardforStrydplusalternativeApp" type="class"/>
+<dataEntry offset="748" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="827" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="866" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="897" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="928" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="959" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="990" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>

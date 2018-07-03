@@ -1,0 +1,99 @@
+<resources>
+  <properties>
+    <property id="pPowerAveraging" type="number">1</property>
+    <property id="pBottomLeftMetric" type="number">1</property>
+    <property id="pBottomRightMetric" type="number">2</property>
+    <property id="pBacklight" type="boolean">false</property>
+    <property id="myNumber" type="number">12345678</property>
+    <property id="pShowDemo" type="boolean">false</property>
+    <property id="pPowerZones" type="string">184:Z1:227:Z2:255:Z3:284:Z4:326:Z5:369</property>
+    <property id="pRequiredPower" type="string">000:999</property>  
+  </properties>
+
+	
+  <strings>
+    <!-- Release name: -->
+    <string id="AppName">Powerdashboard for Stryd plus</string>
+    <!-- Beta name:
+    <string id="AppName">Powerdashboard for Stryd plus</string>
+    -->
+    <string id="AppVersion">1.0</string>
+	<string id="lAEFactor">Average efficiency factor (average speed in meters per minute,  divided by average heartrate in beats/minute)</string>
+	<string id="lAEIndex">Average efficiency index (average speed in meters per minute, divided by average Stryd power in watts)</string>
+	<string id="lLEFactor">Current lap efficiency factor (current lap speed in meters per minute,  divided by current lap heartrate in beats/minute)</string>
+	<string id="lLEIndex">Current lap efficiency index (current lap speed in meters per minute, divided by current lap Stryd power in watts)</string>
+	<string id="lLLEFactor">Last lap average efficiency factor (last lap speed in meters per minute,  divided by last lap heartrate in beats/minute)</string>
+	<string id="lLLEIndex">Last lap efficiency Index (last lap speed in meters per minute, divided by last lap Stryd power in watts)</string>
+	<string id="lAEI0">Current efficiency index </string>
+	<string id="lAEI3">Rolling efficiency index over the last 3 seconds</string>
+    <string id="lAPower">Average Stryd footpod power</string>
+    <string id="lLPower">Lap Stryd footpod power</string>
+	<string id="lLLPower">Last lap Stryd footpod power</string>
+	<string id="lPowerzone">Current powerzone</string>	
+    <string id="lBottomLeftMetric">Bottom left field</string>
+    <string id="lBottomRightMetric">Bottom right field</string>
+    <string id="lPowerAveraging">Power averaging</string>
+    <string id="lAvgPwrNone">No power averaging</string>
+    <string id="lAvgPwr3">Over 3 seconds</string>
+    <string id="lBacklight">Force backlight on, regardless of device settings</string>
+    <string id="lShowDemo">Show demo view for ID's and check license</string>
+    <string id="MyNumberTitle">Enter license key</string>
+    <string id="MyNumberError">Not valid, only numbers allowed!</string>
+    <string id="lPowerZones">Power zones, a format required like 184:Z1:227:Z2:255:Z3:284:Z4:326:Z5:369</string>
+    <string id="lRequiredPower">Boundaries for warning signal, a format required like (227:284)  (not possible for FR920xt and Fenix 3(HR))</string>
+  </strings>
+
+
+  <settings>
+  	<setting propertyKey="@Properties.pShowDemo" title="@Strings.lShowDemo">
+      <settingConfig type="boolean" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.pBacklight" title="@Strings.lBacklight">
+      <settingConfig type="boolean" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.myNumber" title="@Strings.MyNumberTitle">
+        <settingConfig type="numeric" errorMessage="@Strings.MyNumberError" />
+    </setting>
+    <setting propertyKey="@Properties.pPowerAveraging" title="@Strings.lPowerAveraging">
+      <settingConfig type="list" required="true">
+        <listEntry value="0">@Strings.lAvgPwrNone</listEntry>
+        <listEntry value="1">@Strings.lAvgPwr3</listEntry>	
+      </settingConfig>
+      </setting>
+    <setting propertyKey="@Properties.pBottomLeftMetric" title="@Strings.lBottomLeftMetric">
+      <settingConfig type="list" required="true">
+        <listEntry value="0">@Strings.lAPower</listEntry>        
+        <listEntry value="1">@Strings.lLLPower</listEntry>
+        <listEntry value="2">@Strings.lAEIndex</listEntry>
+        <listEntry value="3">@Strings.lLEIndex</listEntry>
+        <listEntry value="4">@Strings.lLLEIndex</listEntry>
+        <listEntry value="5">@Strings.lAEFactor</listEntry>
+        <listEntry value="6">@Strings.lLEFactor</listEntry>
+        <listEntry value="7">@Strings.lAEI0</listEntry>
+        <listEntry value="8">@Strings.lAEI3</listEntry>        
+      </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.pBottomRightMetric" title="@Strings.lBottomRightMetric">
+      <settingConfig type="list" required="true">
+        <listEntry value="0">@Strings.lAPower</listEntry>        
+        <listEntry value="1">@Strings.lLLPower</listEntry>
+        <listEntry value="2">@Strings.lAEIndex</listEntry>
+        <listEntry value="3">@Strings.lLEIndex</listEntry>
+        <listEntry value="4">@Strings.lLLEIndex</listEntry>
+        <listEntry value="5">@Strings.lAEFactor</listEntry>
+        <listEntry value="6">@Strings.lLEFactor</listEntry>
+        <listEntry value="7">@Strings.lAEI0</listEntry>
+        <listEntry value="8">@Strings.lAEI3</listEntry>
+      </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.pPowerZones" title="@Strings.lPowerZones">
+      <settingConfig type="alphaNumeric"  required="true"/>
+    </setting>
+    <setting propertyKey="@Properties.pRequiredPower" title="@Strings.lRequiredPower">
+      <settingConfig type="alphaNumeric"  required="true"/>
+    </setting>    
+  </settings>
+ 
+  <bitmap id="LauncherIcon" filename="launcher_icon.png"></bitmap>
+
+</resources>

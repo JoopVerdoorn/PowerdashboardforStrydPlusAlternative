@@ -1,0 +1,4 @@
+<build>
+	<exclude file="../source/PowerdashboardforStryd-fenix3.mc" />
+	<exclude file="../source/PowerdashboardforStryd-fenix3_hr.mc" />	
+</build>
